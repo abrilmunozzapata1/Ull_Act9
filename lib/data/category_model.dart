@@ -6,9 +6,9 @@ class Category {
 }
 
 List<Category> categories = [
-  Category(0, 'All'),
-  Category(1, 'Outdoor'),
-  Category(2, 'Indoor'),
-  Category(3, 'Office'),
-  Category(4, 'Garden'),
+  Category(0, 'anillos'),
+  Category(1, 'collares'),
+  Category(2, 'brazaletes'),
+  Category(3, 'regalos'),
+  Category(4, 'envios'),
 ];

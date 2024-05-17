@@ -103,7 +103,7 @@ class DetailsPage extends StatelessWidget {
                       ),
                       const SizedBox(height: 20.0),
                       Text(
-                        'Treatment',
+                        'Anillo',
                         style: TextStyle(
                           color: black.withOpacity(0.9),
                           fontSize: 18.0,

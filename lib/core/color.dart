@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 
-const Color green = Color(0xFF2FA849);
+const Color green = Color(0xffff8383);
 const Color white = Color(0xFFFFFFFF);
 const Color black = Color(0xFF071B0C);
 
